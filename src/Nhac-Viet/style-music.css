@@ -1,0 +1,18 @@
+.contentMusic {
+    display: flex;
+}
+
+.contentMusicLeft {
+    width: 80%;
+    margin: 5px;
+    border-radius: 5px;
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
+}
+
+.contentMusicRight {
+    width: 20%;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
+}
